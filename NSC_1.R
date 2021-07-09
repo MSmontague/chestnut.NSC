@@ -1,10 +1,7 @@
 ######################################################################
 ######    M Montague   ###   Chestnut NSC   ###   July 2020   ########
 ######################################################################
-
 ##############################  modified July 7, 2021  ###############
-##
-###  removed anything not directly related to the paper    ###########
 
 setwd("C:/Users/madel/OneDrive - purdue.edu/publishing/R_scripts_data")
 
